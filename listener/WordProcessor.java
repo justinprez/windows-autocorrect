@@ -1,5 +1,3 @@
-package com.company;
-
 import org.jnativehook.keyboard.NativeKeyEvent;
 import java.util.ArrayList;
 
