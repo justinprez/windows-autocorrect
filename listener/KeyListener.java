@@ -1,5 +1,4 @@
-package com.company;
-import com.company.WordProcessor;
+import WordProcessor;
 import org.jnativehook.GlobalScreen;
 import org.jnativehook.NativeHookException;
 import org.jnativehook.keyboard.NativeKeyEvent;
