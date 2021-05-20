@@ -1,5 +1,3 @@
-package com.company;
-
 import org.jnativehook.GlobalScreen;
 import org.jnativehook.NativeHookException;
 
