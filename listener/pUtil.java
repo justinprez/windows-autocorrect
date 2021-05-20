@@ -1,5 +1,3 @@
-package com.company;
-
 public class pUtil{
 
     protected static void Print( Object ... Values ){
