@@ -1,5 +1,3 @@
-package panameron.jspellingbuddy;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,10 +10,6 @@ public class Main {
 	static Scanner iInStream = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		Main.Print( "::::::::::::::");
-		Main.Print( "\tjSpellingBuddy");
-		Main.Print( "\tBy Panameron");
-		Main.Print( "::::::::::::::");
 		Main.Print( "\n<<setup>> Enter a correctness threshold ( Recommended: 2; greater = more loose matching, more matches )");
 		System.out.print( ">>>>>>>>> Threshold: " );
 		int Threshold = iInStream.nextInt();
